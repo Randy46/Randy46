@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Randy Prasetyo</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia just hope</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m **Fake Student of Cui University**
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **nothing**
 
 - 🤝 I’m looking for help with **https://www.youtube.com/@deaafrizal and https://www.youtube.com/@sandhikagalihWPU**
 
