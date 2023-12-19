@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy Prasetyo</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia just hope</h3>
 
-- 🔭 I’m **Fake Student of Cui University**
+- 🔭 I’m **Fake Student of Cuy University**
 
 - 🌱 I’m currently learning **JavaScript**
 
