@@ -3,7 +3,7 @@
 
 - 🔭 I’m **Fake Student of Cuy University**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m focus learning **JavaScript**
 
 - 🤝 I’m looking for help with **https://www.youtube.com/@deaafrizal and https://www.youtube.com/@sandhikagalihWPU**
 
